@@ -3,7 +3,7 @@
 ![](weather.gif)
 
 ### Demo - Deployed over Github Pages 
-https://ayushkul.github.io/react-weather-app
+https://github.com/Anuchy/weather-app/edit/main/README.md
 
 
 
